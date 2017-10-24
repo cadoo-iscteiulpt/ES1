@@ -25,6 +25,7 @@ public class AntiSpamFilterAutomaticConfiguration {
   private static final int INDEPENDENT_RUNS = 5 ;
 
   //Teste do GIT
+  //TESTE 2
   
   public static void main(String[] args) throws IOException {
     String experimentBaseDirectory = "experimentBaseDirectory";
